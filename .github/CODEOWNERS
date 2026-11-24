@@ -3,7 +3,7 @@
 
 # Domain-specific review routing (replace handles with your teammates' GitHub usernames)
 /index.html              @ASF26-lang @gabrielthorcabangon-STUDENT
-/styles/liquid-glass.css @gabrielthorcabangon-STUDENT @gabrielthorcabangon-STUDENT
+/styles/liquid-glass.css @gabrielthorcabangon-STUDENT
 /scripts/dashboard.js    @ShiroZami @gabrielthorcabangon-STUDENT
 /src/pipeline.py         @Student12345-create @SagingConYelo230 @gabrielthorcabangon-STUDENT
 /data/                   @Student12345-create @SagingConYelo230 @gabrielthorcabangon-STUDENT
